@@ -1,3 +1,3 @@
 #!/bin/bash
 
-poetry run pytest
+poetry run pytest -v --durations=0
